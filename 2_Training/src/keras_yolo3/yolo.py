@@ -83,6 +83,7 @@ class YOLO(object):
                 else yolo_body(
                     Input(shape=(None, None, 3)), num_anchors // 3, num_classes
                 )
+               
             )
             self.yolo_model.load_weights(
                 self.model_path
