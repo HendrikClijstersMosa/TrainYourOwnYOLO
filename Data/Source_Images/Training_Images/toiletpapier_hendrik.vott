@@ -1,0 +1,528 @@
+{
+    "name": "toiletpapier_hendrik",
+    "securityToken": "toiletpapier_hendrik Token",
+    "sourceConnection": {
+        "name": "toiletpapier_hendrik",
+        "description": "Link naar map met afbeeldingen van toiletpapier",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYjVkMGNmM2ZjYTMwOWQ2MTUxNmY2ODZhYjYxODYzNmYwZWM0YjI5YWI2OGUzZGJiYWE2MTQwYzE1ZWNmYzkwYmU0NjllZjhmZDVmMTg0YmFhYjdmMDY5YjUxM2YwYmI4ZjY4YjY4ZTA0MmVlODRjMWRjODIxZGQwYzE5YTkwODcwYWIzZjZhMzYxMTM3N2M2ODZlZDY1ODM5NjNmNWJlYmNkNjVhZjQyZDVkNTgyZGViNjk2ZTE5ZDg0MTcwNWI1MmIxYzA0MmY2NWFkN2JlNTJkZGJlZmQzNDkwMWMwZTU0N2Y3MDY2YWY1Y2E0YmNlZmYyNjJkNjE0OTFjNDJlYWEzOWY3ODdmZWVhM2Q4Y2ZiNTA0YjcxZDU5ZGM0ODkyZDg3ZTQ0NmRiOTVkMjBlZWE1NGYwMmMxMjdkMjNkNzAiLCJpdiI6IjY0YzY0NzUwYjY4YjNhMmE2ZDExMTk2MDUxZjY3MTdiM2FjOWQwMmZiMDIwZTUwMCJ9"
+        },
+        "id": "GSuJ7tim2"
+    },
+    "targetConnection": {
+        "name": "toiletpapier_hendrik",
+        "description": "Link naar map met afbeeldingen van toiletpapier",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNTFlMTViZTEwNDVjZDE3OTlmNjEzZGZmNWJkZTc1YTY4OWVkNTYxODU4NjU5MzczMDcyN2ZkMGI2MDcxNDgwOWVhYTNhZjA2YjA2MzFjNmViYmE5N2RiZjQxNGZlYzhlNTQ0OGZlMGFiZTgxMTAxODcxZjAzYmJiZjI3NmUxMjJjZDljYjVjZDZlNzQxYzEzNjJlNDgzMzZhOTY5NWU3NWYwNjI0YWFjNGI3Y2NkMmM2NWIxMzA4MWRjOTBlODA2NjQwOGM5NWJmMmE3NTFiNGMzZWRkMjQwN2JiNmQ4MWM5OTk1MDZhODYyMTQzMjhhYjM0MDg4MDNhNWQ3MjcwMDEzMzc3MGE5ZTYxZDNjZGM3ZjExYzRjNDdiNzJlM2JhMjZiY2FiNDg0YzRmNzE3NzU2YjYxNjU5MjUzYjAwODkiLCJpdiI6IjM2OTMzNjQ3NTAyODIxZTM5YTA2YWZjN2NlYzlmMzM2OTk0NWM4ODIyZWMxZmZiOSJ9"
+        },
+        "id": "GSuJ7tim2"
+    },
+    "description": "Toiletpapier tagging van afbeeldingen Hendrik",
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "toiletpapier",
+            "color": "#5db300"
+        }
+    ],
+    "id": "Sa6irh8j4",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNjlhYzE4MzkyNGQ5NmI5OTA4ZTQ0OGI3MWUyZjQ4MGE5Y2JlMTZlMDg2NTVlYzAzOGM2NWMxMGVlMmMxZjc0NWNmYjc1YzJjZDE1MTRlYmJlN2ExZjk4YzNkOGU4ZDU5IiwiaXYiOiI0MWIzZTc4ZjZjOTkwZDBjYzU5NzgzYjU5ZGFmMjE2YzllMjcwMGI2YjI1ZTBhYjUifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "bbd04176609b3c92d68cf11d393a7f5d",
+    "assets": {
+        "dbaef087fe3e8fca2b0ac7ab7558463a": {
+            "format": "jpg",
+            "id": "dbaef087fe3e8fca2b0ac7ab7558463a",
+            "name": "toiletpapier_hendrik_1.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_1.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bbd04176609b3c92d68cf11d393a7f5d": {
+            "format": "jpg",
+            "id": "bbd04176609b3c92d68cf11d393a7f5d",
+            "name": "toiletpapier_hendrik_10.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_10.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "94fbccddc88ae0a5e6805d0cc2d8644f": {
+            "format": "jpg",
+            "id": "94fbccddc88ae0a5e6805d0cc2d8644f",
+            "name": "toiletpapier_hendrik_10_filter.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_10_filter.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "891f3895dc6e0f221be91ec1a5cd2ef1": {
+            "format": "jpg",
+            "id": "891f3895dc6e0f221be91ec1a5cd2ef1",
+            "name": "toiletpapier_hendrik_10_rot.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_10_rot.jpg",
+            "size": {
+                "width": 3000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c23d948d6366c75cf5cb93b021862911": {
+            "format": "jpg",
+            "id": "c23d948d6366c75cf5cb93b021862911",
+            "name": "toiletpapier_hendrik_10_spiegel.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_10_spiegel.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2223d8c4ae149fe8747411b027d7c692": {
+            "format": "jpg",
+            "id": "2223d8c4ae149fe8747411b027d7c692",
+            "name": "toiletpapier_hendrik_1_filter.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_1_filter.jpg",
+            "size": {
+                "width": 3000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "42b1e8bc6bb511666c1e597a214598a1": {
+            "format": "jpg",
+            "id": "42b1e8bc6bb511666c1e597a214598a1",
+            "name": "toiletpapier_hendrik_1_rot.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_1_rot.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c264334580504a89e3a4b76a72ad7c67": {
+            "format": "jpg",
+            "id": "c264334580504a89e3a4b76a72ad7c67",
+            "name": "toiletpapier_hendrik_1_spiegel.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_1_spiegel.jpg",
+            "size": {
+                "width": 3000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "02e6202ae769a9d9bc052e95a1c60c2c": {
+            "format": "jpg",
+            "id": "02e6202ae769a9d9bc052e95a1c60c2c",
+            "name": "toiletpapier_hendrik_2.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_2.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "325921dd9c9ba8b403cf5a380db67ed9": {
+            "format": "jpg",
+            "id": "325921dd9c9ba8b403cf5a380db67ed9",
+            "name": "toiletpapier_hendrik_2_filter.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_2_filter.jpg",
+            "size": {
+                "width": 3000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0f69b2151f84565d441ea04de61bd286": {
+            "format": "jpg",
+            "id": "0f69b2151f84565d441ea04de61bd286",
+            "name": "toiletpapier_hendrik_2_rot.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_2_rot.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "094afcd6383a631e8aca46ddfab1377e": {
+            "format": "jpg",
+            "id": "094afcd6383a631e8aca46ddfab1377e",
+            "name": "toiletpapier_hendrik_2_spiegel.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_2_spiegel.jpg",
+            "size": {
+                "width": 3000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c133b6cf1cd4da66cee9732e34462a87": {
+            "format": "jpg",
+            "id": "c133b6cf1cd4da66cee9732e34462a87",
+            "name": "toiletpapier_hendrik_3.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_3.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f272032b07a3405fe4ef4c85491aeadf": {
+            "format": "jpg",
+            "id": "f272032b07a3405fe4ef4c85491aeadf",
+            "name": "toiletpapier_hendrik_3_filter.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_3_filter.jpg",
+            "size": {
+                "width": 3000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1c755b6f2af3102b4fe6cb8d72d59682": {
+            "format": "jpg",
+            "id": "1c755b6f2af3102b4fe6cb8d72d59682",
+            "name": "toiletpapier_hendrik_3_rot.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_3_rot.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9af1fd350745b3618fc750f0cd73e23f": {
+            "format": "jpg",
+            "id": "9af1fd350745b3618fc750f0cd73e23f",
+            "name": "toiletpapier_hendrik_4.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_4.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "57b1e1e3aa2c35f0cf981be9b77584f4": {
+            "format": "jpg",
+            "id": "57b1e1e3aa2c35f0cf981be9b77584f4",
+            "name": "toiletpapier_hendrik_3_spiegel.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_3_spiegel.jpg",
+            "size": {
+                "width": 3000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0dda6a1ae40993828b7c251af7cd60e1": {
+            "format": "jpg",
+            "id": "0dda6a1ae40993828b7c251af7cd60e1",
+            "name": "toiletpapier_hendrik_4_filter.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_4_filter.jpg",
+            "size": {
+                "width": 3000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "64fb9c1818ac9c7847fe827300e6edfb": {
+            "format": "jpg",
+            "id": "64fb9c1818ac9c7847fe827300e6edfb",
+            "name": "toiletpapier_hendrik_4_rot.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_4_rot.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6417f989c99cc715e5043e2571c2e925": {
+            "format": "jpg",
+            "id": "6417f989c99cc715e5043e2571c2e925",
+            "name": "toiletpapier_hendrik_4_spiegel.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_4_spiegel.jpg",
+            "size": {
+                "width": 3000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "39b89bb91aee3e6adaed8245a9d22759": {
+            "format": "jpg",
+            "id": "39b89bb91aee3e6adaed8245a9d22759",
+            "name": "toiletpapier_hendrik_5.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_5.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "47eff69c63b8be4268d7add60725715c": {
+            "format": "jpg",
+            "id": "47eff69c63b8be4268d7add60725715c",
+            "name": "toiletpapier_hendrik_5_filter.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_5_filter.jpg",
+            "size": {
+                "width": 3000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "99ef2c6de852868a6f573736d8647c85": {
+            "format": "jpg",
+            "id": "99ef2c6de852868a6f573736d8647c85",
+            "name": "toiletpapier_hendrik_5_rot.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_5_rot.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2f6205805db5519091ffea8f4554c359": {
+            "format": "jpg",
+            "id": "2f6205805db5519091ffea8f4554c359",
+            "name": "toiletpapier_hendrik_5_spiegel.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_5_spiegel.jpg",
+            "size": {
+                "width": 3000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ce733f812f0e0152c55500c7eb4f6f95": {
+            "format": "jpg",
+            "id": "ce733f812f0e0152c55500c7eb4f6f95",
+            "name": "toiletpapier_hendrik_6.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_6.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "551ed79d57283d28ce793cfc850f64b7": {
+            "format": "jpg",
+            "id": "551ed79d57283d28ce793cfc850f64b7",
+            "name": "toiletpapier_hendrik_6_filter.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_6_filter.jpg",
+            "size": {
+                "width": 3000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "52363d571af2f7013b234712e17ca256": {
+            "format": "jpg",
+            "id": "52363d571af2f7013b234712e17ca256",
+            "name": "toiletpapier_hendrik_6_rot.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_6_rot.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5cacae21ff7a1bf106112941a327ccb7": {
+            "format": "jpg",
+            "id": "5cacae21ff7a1bf106112941a327ccb7",
+            "name": "toiletpapier_hendrik_6_spiegel.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_6_spiegel.jpg",
+            "size": {
+                "width": 3000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0817d1baef6eb7c811fc553f13955fd2": {
+            "format": "jpg",
+            "id": "0817d1baef6eb7c811fc553f13955fd2",
+            "name": "toiletpapier_hendrik_7.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_7.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4c12911fbb6f82ebac61d6bc79d7d6fc": {
+            "format": "jpg",
+            "id": "4c12911fbb6f82ebac61d6bc79d7d6fc",
+            "name": "toiletpapier_hendrik_7_filter.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_7_filter.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9ef1f3fcf904e1ed44d776aee6b9b725": {
+            "format": "jpg",
+            "id": "9ef1f3fcf904e1ed44d776aee6b9b725",
+            "name": "toiletpapier_hendrik_7_rot.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_7_rot.jpg",
+            "size": {
+                "width": 3000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "462e15e51a1f93c6a5fd2d34071061e8": {
+            "format": "jpg",
+            "id": "462e15e51a1f93c6a5fd2d34071061e8",
+            "name": "toiletpapier_hendrik_7_spiegel.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_7_spiegel.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9216314e09ffe0d01bd5912b3b34da61": {
+            "format": "jpg",
+            "id": "9216314e09ffe0d01bd5912b3b34da61",
+            "name": "toiletpapier_hendrik_8.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_8.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4074aa0cc9d142cb533e19be020a458e": {
+            "format": "jpg",
+            "id": "4074aa0cc9d142cb533e19be020a458e",
+            "name": "toiletpapier_hendrik_8_filter.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_8_filter.jpg",
+            "size": {
+                "width": 3000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ac0835a13f2eb58225e088bf84f485a9": {
+            "format": "jpg",
+            "id": "ac0835a13f2eb58225e088bf84f485a9",
+            "name": "toiletpapier_hendrik_8_rot.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_8_rot.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2f30ba2af7272a3e163dea3ca219691a": {
+            "format": "jpg",
+            "id": "2f30ba2af7272a3e163dea3ca219691a",
+            "name": "toiletpapier_hendrik_8_spiegel.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_8_spiegel.jpg",
+            "size": {
+                "width": 3000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ba03406ec5ba992d0e93abcb7661da4d": {
+            "format": "jpg",
+            "id": "ba03406ec5ba992d0e93abcb7661da4d",
+            "name": "toiletpapier_hendrik_9.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_9.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f9282b3fba5c3a8b3632fa9ca8ac68a4": {
+            "format": "jpg",
+            "id": "f9282b3fba5c3a8b3632fa9ca8ac68a4",
+            "name": "toiletpapier_hendrik_9_filter.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_9_filter.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a35783d629901dc0e73f815ddb02bfd9": {
+            "format": "jpg",
+            "id": "a35783d629901dc0e73f815ddb02bfd9",
+            "name": "toiletpapier_hendrik_9_rot.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_9_rot.jpg",
+            "size": {
+                "width": 3000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5dc2006109315a1604320b5a04881424": {
+            "format": "jpg",
+            "id": "5dc2006109315a1604320b5a04881424",
+            "name": "toiletpapier_hendrik_9_spiegel.jpg",
+            "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_9_spiegel.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

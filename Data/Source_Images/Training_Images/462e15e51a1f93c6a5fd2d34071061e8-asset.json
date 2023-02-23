@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "462e15e51a1f93c6a5fd2d34071061e8",
+        "name": "toiletpapier_hendrik_7_spiegel.jpg",
+        "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_7_spiegel.jpg",
+        "size": {
+            "width": 4000,
+            "height": 3000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "FTZQXefKt",
+            "type": "RECTANGLE",
+            "tags": [
+                "toiletpapier"
+            ],
+            "boundingBox": {
+                "height": 1833.333522715467,
+                "width": 1709.2200745927526,
+                "left": 1220.7446808510638,
+                "top": 429.0780412389877
+            },
+            "points": [
+                {
+                    "x": 1220.7446808510638,
+                    "y": 429.0780412389877
+                },
+                {
+                    "x": 2929.9647554438166,
+                    "y": 429.0780412389877
+                },
+                {
+                    "x": 2929.9647554438166,
+                    "y": 2262.411563954455
+                },
+                {
+                    "x": 1220.7446808510638,
+                    "y": 2262.411563954455
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2223d8c4ae149fe8747411b027d7c692",
+        "name": "toiletpapier_hendrik_1_filter.jpg",
+        "path": "file:C:/Users/Hendrik.Clijsters/MOSA-RT/OneDrive%20-%20MOSA-RT/Prog/PROG_6IICT/_6IICT_PROG4_opl/hfst_5_AI/objectdetectie/toiletpapier_hendrik/toiletpapier_hendrik_1_filter.jpg",
+        "size": {
+            "width": 3000,
+            "height": 4000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "_QnpsjXkV",
+            "type": "RECTANGLE",
+            "tags": [
+                "toiletpapier"
+            ],
+            "boundingBox": {
+                "height": 1200.9454821863917,
+                "width": 1314.4206594913562,
+                "left": 735.2247305795655,
+                "top": 1224.5864327072252
+            },
+            "points": [
+                {
+                    "x": 735.2247305795655,
+                    "y": 1224.5864327072252
+                },
+                {
+                    "x": 2049.645390070922,
+                    "y": 1224.5864327072252
+                },
+                {
+                    "x": 2049.645390070922,
+                    "y": 2425.531914893617
+                },
+                {
+                    "x": 735.2247305795655,
+                    "y": 2425.531914893617
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
