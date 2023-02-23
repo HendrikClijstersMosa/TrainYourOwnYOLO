@@ -8,6 +8,7 @@ import os
 from timeit import default_timer as timer
 
 import numpy as np
+from tensorflow import keras
 from tensorflow.keras.models import load_model
 from tensorflow.keras.layers import Input
 from PIL import Image, ImageFont, ImageDraw

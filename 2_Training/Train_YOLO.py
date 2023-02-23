@@ -247,7 +247,7 @@ if __name__ == "__main__":
         },
     )
 
-    batch_size = 16
+    batch_size = 2
     print(
         "Train on {} samples, val on {} samples, with batch size {}.".format(
             num_train, num_val, batch_size
@@ -284,7 +284,7 @@ if __name__ == "__main__":
 
     print("Unfreeze all layers.")
 
-    batch_size = 4  # note that more GPU memory is required after unfreezing the body
+    batch_size = 2  # note that more GPU memory is required after unfreezing the body
     print(
         "Train on {} samples, val on {} samples, with batch size {}.".format(
             num_train, num_val, batch_size
